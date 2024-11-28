@@ -1,0 +1,12 @@
+/  Lema Micaela y Zuccotti Malena /
+Programación: Lema Micaela y Zuccotti Malena
+Diseño: Lema Micaela y Zuccotti Malena
+
+
+/Sitio /
+Última actualización: 2024-11-27
+Lenguaje: HTML5, CSS3
+
+/Sobre el sitio /
+Descripción: Este sitio es una plataforma para fomentar la adopción responsable de animales.
+Autor: Equipo de Adopción Web
